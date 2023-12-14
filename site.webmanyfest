@@ -1,0 +1,11 @@
+{
+    "name": "Stopwatch",
+    "short_name": "Stopwatch",
+    "icons":
+        [
+            {"src":"/stopwatch.png"},{"src":"/stopwatch.png"}
+        ],
+    "theme_color": "#EEF0F4",
+    "background_color": "#EEF0F4",
+    "display": "standalone"
+}
